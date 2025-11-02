@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Created by Cristian Salas y Fellipe Herrero
+
+[![Link video Youtube](https://youtube.com/shorts/hifyGEEiTrw?feature=share)
+
+## Uso de IA
+
+Esta aplicación móvil ha sido desarrollada en React Native y utiliza la API de OpenAI y ChatGPT para generar contenido automáticamente a partir de una entrada del usuario. Se construyó una estructura de aplicación organizada utilizando layouts y navegación con Expo Router. Además, se implementó un sistema de autenticación básico con pantalla de login, validación de correo y contraseña, y manejo de sesión mediante un Contexto global (AuthContext).
+
 ## Get started
 
 1. Install dependencies
@@ -48,3 +56,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Created by Cristian Salas y Fellipe Herrero
+
+[![Link video Youtube](https://youtube.com/shorts/hifyGEEiTrw?feature=share)
